@@ -1,3 +1,6 @@
+# Banking_Data_Analysis_using_Python_PostgreSQL_PowerBI
+Data Analysis Project ShowCasing Banking Data Analysis using Python(Numpy,Pandas,Matplotlib,Seaborn), PostgreSQl and PowerBI
+
 🏦 Banking Customer Behavior Analysis using Python, PostgreSQL & Power BI
 
 📊 Banking Customer Behavior Analysis
