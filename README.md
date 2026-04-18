@@ -10,8 +10,8 @@ This project demonstrates a complete end-to-end data analytics workflow, transfo
 The analysis focuses on customer financial behavior, uncovering patterns in income, savings, loans, and account usage to support business decision-making.
 
 📁 Dataset
-Total Records: ~3,900
-Features: Financial + demographic attributes
+Total Records: ~3,000
+Features: 25 Coinmns
 
 🔍 Data Includes:
 Customer demographics (Age, Gender)
